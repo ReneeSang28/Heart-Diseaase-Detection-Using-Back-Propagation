@@ -17,6 +17,7 @@ This project focuses on analyzing and predicting heart disease using machine lea
 - Matplotlib & Seaborn for data visualization
 - Scikit-learn for machine learning model training
 - Other libraries as required
+- Dataset used - https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
 ## How to Use
 1. Clone the repository:
