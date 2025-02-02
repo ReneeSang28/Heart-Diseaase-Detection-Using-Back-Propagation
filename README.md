@@ -6,8 +6,6 @@ This project focuses on analyzing and predicting heart disease using machine lea
 
 ## Project Structure
 - **Heartdisease.ipynb** – Jupyter Notebook containing data analysis, visualization, and model-building steps.
-- **datasets/** – (If applicable) Folder containing the dataset used in this project.
-- **requirements.txt** – Dependencies required to run the notebook.
 - **README.md** – Documentation for the project.
 
 ## Technologies Used
